@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeMirco/lockit-sendmail"
+    "url": "https://github.com/koolaid1551/lockit-sendmail"
   },
   "keywords": [
     "lockit",
@@ -23,7 +23,7 @@
     "email"
   ],
   "dependencies": {
-    "lockit-template-blank": "~0.0.1",
+    "lockit-template-blank": "https://github.com/koolaid1551/lockit-template-blank/tarball/tc",
     "ejs": "^1.0.0",
     "nodemailer": "^0.6.5"
   },
